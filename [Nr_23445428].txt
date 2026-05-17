@@ -1,0 +1,15 @@
+Inicio
+{
+ var[5][4] int c;
+ read(posicionEst);
+ var int filaC;
+ var int columnaD;
+ read (filaC);
+ read (columnaD);
+ if(0 <= filaC < 5 and 0 <= columnaD < 4){
+   print(posicionEst[filaC][ColumnaC]);
+ }else{
+   print("Error -1 posición no existe");
+ }
+}retorn 0;
+Fin
